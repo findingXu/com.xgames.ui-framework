@@ -1,0 +1,15 @@
+{
+    "name": "com.xgames.ui-framework",
+    "displayName": "XGames UIFramework",
+    "version": "1.0.0",
+    "description": "com.xgames.ui-framework",
+    "unity": "2022.3",
+    "keywords": [
+        "ui framework"
+    ],
+    "author": {
+        "name": "findingXu",
+        "email": "xzjH5263@163.com"
+    },
+    "license": "MIT"
+}

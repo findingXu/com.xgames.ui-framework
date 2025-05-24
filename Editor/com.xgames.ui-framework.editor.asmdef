@@ -1,0 +1,16 @@
+{
+    "name": "com.xgames.ui-framework.editor",
+    "rootNamespace": "",
+    "references": [
+        "com.xgames.ui-framework.runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
